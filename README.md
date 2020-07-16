@@ -8,13 +8,9 @@ Nutze am besten die aktuelle Version von [Firefox](https://www.mozilla.org/de/ex
 
 Grundsätzlich können Probleme an zwei stellen auftreten. Entweder das Gerät verfügt nicht über genug Leistun die empfangenen Daten zu verarbeiten oder die Netzwerkverbindung reicht nicht aus. Um die Ursache zu finden, öffne die entsprechende Software:
 
-| Windows 10 - Taskmanager |      |
-| ------------------------ | ---- |
-| ![](/pics/windows_good.png)| Achte auf die Grafik, in diesem Bild ist der Computer nicht ausgelastet |
-|  ![](/pics/windows_bad.png)| Hier ist die Auslastung wesentlich höher, und die Qualität von BigBluebutton kann eingeschränkt werden.                                                          |
+![Windows](windows.md)
+![Mac](mac.md)
 
-| MacOs - Aktivitätsanzeige             |                                                              |
-| ------------------------------------- | :----------------------------------------------------------- |
-| ![](/pics/mac_good.png)| Achte unten auf die Grafik,in diesem Bild ist der Computer  nicht ausgelastet |
-|  ![](/pics/mac_bad.png)| Hier ist die Auslastung  wesentlich höher, und die Qualität von BigBluebutton kann eingeschränkt werden.                                                          |
+### 3. Problem zu hohe Auslastung:
+Sollte dein Gerät nicht über genügend Leistung verfügen, versuche ungenutzte Programme zu schließen oder wechsel das Gerät. Ist beides nicht möglich, so kannst du die Webcams der Teilnehmer für dich abschalten.
 
