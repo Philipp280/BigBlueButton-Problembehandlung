@@ -11,6 +11,4 @@ Grundsätzlich können Probleme an zwei stellen auftreten. Entweder das Gerät v
 <a href="windows.md" target="_blank">Windows</a> <br>
 <a href="mac.md" target="_blank">Mac</a>
 
-### 3. Problem zu hohe Auslastung:
-Sollte dein Gerät nicht über genügend Leistung verfügen, versuche ungenutzte Programme zu schließen oder wechsel das Gerät. Ist beides nicht möglich, so kannst du die Webcams der Teilnehmer für dich abschalten.
 
