@@ -11,3 +11,10 @@ Grundsätzlich können Probleme an zwei Stellen auftreten. Entweder das Gerät v
 [Windows](./windows.md)
 
 [Mac](./mac.md)
+
+
+Direktverweise:
+* [Webcams abschalten](./disable_video.md)
+* [Computerauslastung verringern](./auslastung.md)
+* [Netzwerkprobleme beheben](./netzwerk.md)
+
