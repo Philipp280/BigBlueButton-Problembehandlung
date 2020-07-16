@@ -8,7 +8,7 @@ Nutze am besten die aktuelle Version von [Firefox](https://www.mozilla.org/de/ex
 
 Grundsätzlich können Probleme an zwei stellen auftreten. Entweder das Gerät verfügt nicht über genug Leistun die empfangenen Daten zu verarbeiten oder die Netzwerkverbindung reicht nicht aus. Um die Ursache zu finden, öffne die entsprechende Software:
 
-![Windows](windows.md) <br>
+<a href="windows.md" target="_blank">Windows</a> <br>
 <a href="mac.md" target="_blank">Mac</a>
 
 ### 3. Problem zu hohe Auslastung:
