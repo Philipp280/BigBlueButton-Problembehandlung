@@ -10,6 +10,7 @@ Nutze am besten die aktuelle Version von [Firefox](https://www.mozilla.org/de/ex
 
 Grundsätzlich können Probleme an zwei Stellen auftreten. Entweder das Gerät verfügt nicht über genug **Leistung** um die empfangenen Daten zu verarbeiten, oder die **Netzwerkverbindung** reicht nicht aus. Um die Ursache zu finden, öffne die entsprechende Software:
 
-<a href="windows.md">Windows</a> <br>
+<a href="https://github.com/n103/bbb-troubleshoot/blob/master/windows.md">Windows</a> <br>
 <a href="mac.md" target="_blank">Mac</a>
 
+--
