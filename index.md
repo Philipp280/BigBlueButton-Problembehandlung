@@ -13,4 +13,3 @@ Grundsätzlich können Probleme an zwei Stellen auftreten. Entweder das Gerät v
 <a href="windows.md">Windows</a> <br>
 <a href="mac.md" target="_blank">Mac</a>
 
-.
