@@ -1,5 +1,3 @@
-## BigBlueButton Problembehandlung
-
 ### 1. Browser:
 
 Nutze am besten die aktuelle Version von [Firefox](https://www.mozilla.org/de/exp/firefox/new/) oder [Chrome](https://www.google.de/intl/de/chrome/).
