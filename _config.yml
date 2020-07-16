@@ -9,6 +9,3 @@ include:
   - auslastung.md
   - mac.md
   - windows.md 
-
-
-theme: jekyll-theme-cayman
