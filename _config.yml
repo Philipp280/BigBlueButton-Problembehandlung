@@ -3,3 +3,10 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+include:
+  - CONTRIBUTING.md
+  - index.md
+  - auslastung.md
+  - mac.md
+  - windows.md 
+
