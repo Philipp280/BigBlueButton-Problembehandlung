@@ -4,9 +4,10 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
+  - README.md
   - index.md
   - auslastung.md
   - mac.md
   - windows.md 
   - disable_video.md
+  - netzwerk.md
