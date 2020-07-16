@@ -8,8 +8,8 @@ Nutze am besten die aktuelle Version von [Firefox](https://www.mozilla.org/de/ex
 
 Grundsätzlich können Probleme an zwei stellen auftreten. Entweder das Gerät verfügt nicht über genug Leistun die empfangenen Daten zu verarbeiten oder die Netzwerkverbindung reicht nicht aus. Um die Ursache zu finden, öffne die entsprechende Software:
 
-![Windows](windows.md)
-![Mac](mac.md)
+![Windows](windows.md) <br>
+[Mac](mac.md){:target="_blank"}
 
 ### 3. Problem zu hohe Auslastung:
 Sollte dein Gerät nicht über genügend Leistung verfügen, versuche ungenutzte Programme zu schließen oder wechsel das Gerät. Ist beides nicht möglich, so kannst du die Webcams der Teilnehmer für dich abschalten.
