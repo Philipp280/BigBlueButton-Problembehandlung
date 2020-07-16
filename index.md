@@ -13,5 +13,5 @@ Grundsätzlich können Probleme an zwei Stellen auftreten. Entweder das Gerät v
 <a href="https://github.com/n103/bbb-troubleshoot/blob/master/windows.md">Windows</a> <br>
 <a href="mac.md" target="_blank">Mac</a><br>
 
-![mac2](./mac.md)
+[mac2](./mac.md)
 --
