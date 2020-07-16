@@ -15,6 +15,6 @@ Grundsätzlich können Probleme an zwei stellen auftreten. Entweder das Gerät v
 
 | MacOs - Aktivitätsanzeige &nbsp; &nbsp; &nbsp; &nbsp;     |                                                              |
 | ------------------------------------- | :----------------------------------------------------------- |
-| ![](/pics/mac_ok) | Achte unten auf die Grafik, in diesem Bild ist der Computer nicht ausgelastet |
+| ![](/pics/mac_good.png) | Achte unten auf die Grafik, in diesem Bild ist der Computer nicht ausgelastet |
 |                                       |                                                              |
 
