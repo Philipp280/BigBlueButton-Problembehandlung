@@ -12,6 +12,14 @@ Grundsätzlich können Probleme an zwei Stellen auftreten. Entweder das Gerät v
 
 [Mac](./mac.md)
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 Direktverweise:
 * [Webcams abschalten](./disable_video.md)
